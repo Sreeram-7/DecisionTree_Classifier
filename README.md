@@ -1,4 +1,4 @@
-# DecisionTree_Classifier# Decision Tree Classifier Notebook
+# Decision Tree Classifier Notebook
 
 This Jupyter Notebook demonstrates how to build and evaluate a decision tree classifier using the Iris dataset. The notebook covers data loading, preprocessing, exploratory data analysis, model training, and evaluation.
 
